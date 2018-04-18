@@ -5,21 +5,35 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.jonmid.worldcup.Views.HomeActivity">
+    tools:context="com.example.jonmid.worldcup.Views.HomeActivity"
+    android:background="@drawable/background_index">
 
     <include layout="@layout/toolbar_index"/>
 
-    <RelativeLayout
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Hola jonmid"
-            android:layout_centerInParent="true"/>
+        <FrameLayout
+            android:id="@+id/id_fl_index"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:animateLayoutChanges="true"
+            android:layout_weight="1">
+        </FrameLayout>
 
-    </RelativeLayout>
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/id_bnv_index"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:itemBackground="@color/colorPrimary"
+            app:itemIconTint="@drawable/selector_bottom_navigation"
+            app:itemTextColor="@drawable/selector_bottom_navigation"
+            app:menu="@menu/menu_bottom_navigation">
+        </android.support.design.widget.BottomNavigationView>
+
+    </LinearLayout>
+
 </android.support.design.widget.CoordinatorLayout>

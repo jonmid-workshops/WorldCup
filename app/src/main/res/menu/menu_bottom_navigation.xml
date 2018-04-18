@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/id_menubn_results"
+        android:title="@string/str_menubn_results"
+        android:icon="@drawable/ball_96"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_group"
+        android:title="Groups"
+        android:icon="@drawable/group_96"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_news"
+        android:title="News"
+        android:icon="@drawable/news_96"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_stadium"
+        android:title="Stadium"
+        android:icon="@drawable/stadium_96"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/id_menubn_profile"
+        android:title="Profile"
+        android:icon="@drawable/user_96"
+        app:showAsAction="ifRoom"/>
+
+</menu>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WorldCup</string>
+    <string name="str_menubn_results">Resultados</string>
 </resources>
