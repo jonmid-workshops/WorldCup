@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">WorldCup</string>
     <string name="str_menubn_results">Resultados</string>
@@ -24,4 +25,19 @@
     <string name="str_stadium_diez">Estadio Del Spartak</string>
     <string name="str_stadium_once">Estadio De San Petersburgo</string>
     <string name="str_stadium_doce">Estadio De Mordovia Arena</string>
+
+
+    <string name="str_profile_option_uno">Notificaciones</string>
+    <string name="str_profile_option_dos">Enviar email</string>
+    <string name="str_profile_option_tres">Ejecutar sonidos</string>
+
+
+    <string name="str_group_a">GRUPO A</string>
+    <string name="str_group_b">GRUPO B</string>
+    <string name="str_group_c">GRUPO C</string>
+    <string name="str_group_d">GRUPO D</string>
+    <string name="str_group_e">GRUPO E</string>
+    <string name="str_group_f">GRUPO F</string>
+    <string name="str_group_g">GRUPO G</string>
+    <string name="str_group_h">GRUPO H</string>
 </resources>
