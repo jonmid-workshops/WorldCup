@@ -27,6 +27,8 @@ public class HomeActivity extends AppCompatActivity {
         bottomNavigationView = (BottomNavigationView) findViewById(R.id.id_bnv_index);
         BottomNavigationViewHelper.removeShiftMode(bottomNavigationView);
 
+        bottomNavigationView.setSelectedItemId(R.id.id_menubn_news);
+
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {

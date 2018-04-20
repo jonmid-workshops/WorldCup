@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WorldCup</string>
-    <string name="str_menubn_results">Result</string>
-    <string name="str_title_video">Recuerde los mejores goles del mundial</string>
+    <string name="app_name">world Cup</string>
+    <string name="str_toolbar_account">Create Account</string>
+
+    <string name="str_menubn_results">Match</string>
+    <string name="str_menubn_groups">Group</string>
+    <string name="str_menubn_news">News</string>
+    <string name="str_menubn_stadium">Stadium</string>
+    <string name="str_menubn_profile">Profile</string>
+
+
+    <string name="str_title_video">Remember the best goals of the world</string>
+
+
+    <string name="str_news_uno">¡A 55 DAYS OF RUSSIA 2018!</string>
+    <string name="str_news_uno_text">Book your seat at the 2018 FIFA World Cup ™ and enjoy football at another level thanks to our Official Hospitality Program.</string>
+    <string name="str_news_dos">MEXICO: ASPIRES THE 5th MATCH</string>
+    <string name="str_news_dos_text">There are already six consecutive editions that the Mexican team has managed to overcome the group stage, but that is their roof.</string>
+    <string name="str_news_tres">THE TOUR OF THE WORLD CUP</string>
+    <string name="str_news_tres_text">The tour of the trophy of the world cup makes a stop in Latin America, summoning millions of soccer fans.</string>
 
 
     <string name="str_stadium_uno">Stadium Kaliningrado</string>
@@ -17,4 +33,72 @@
     <string name="str_stadium_diez">Stadium Spartak</string>
     <string name="str_stadium_once">Stadium San Petersburgo</string>
     <string name="str_stadium_doce">Stadium Mordovia Arena</string>
+
+
+    <string name="str_profile_option_uno">Notifications</string>
+    <string name="str_profile_option_dos">Send email</string>
+    <string name="str_profile_option_tres">Execute sounds</string>
+
+
+    <string name="str_group_a">GROUP A</string>
+    <string name="str_group_b">GROUP B</string>
+    <string name="str_group_c">GROUP C</string>
+    <string name="str_group_d">GROUP D</string>
+    <string name="str_group_e">GROUP E</string>
+    <string name="str_group_f">GROUP F</string>
+    <string name="str_group_g">GROUP G</string>
+    <string name="str_group_h">GROUP H</string>
+
+
+    <string name="str_login_name">Username</string>
+    <string name="str_login_password">Password</string>
+    <string name="str_btn_login">Enter</string>
+
+
+    <string name="str_account_email">Email</string>
+    <string name="str_account_name">First name</string>
+    <string name="str_account_user">User</string>
+    <string name="str_account_password">Password</string>
+    <string name="str_account_repassword">Confirm Password</string>
+    <string name="str_btn_account">Create Accoun</string>
+
+    <string name="str_stadium_history">History</string>
+    <string name="str_stadium_desing">Design</string>
+
+
+    <string name="str_stadium_uno_historytext">Russias main stadium 2018 was originally built to house or first national Spartakiad will be seen in 1956. Since then, this great sports arena or stage in multitude of major sports events and cultural events, including the Olympic Games of 1980, os campionates of the world of hockey on or xeo, athletics and rugby competitions, and concerts of some two most important artists of the world. In all this time, however, soccer figured prominently in this stadium, where more than 3,000 games were played. In the Luzhniki, the national team of Russia xogou a maioría two seus home games. On several occasions, or as a venue, two Moscow clubs Spartak, CSKA and Torpedo will not start.O stadium albergou as finais das duas great football competitions of European clubs: at the end of the UEFA Cup in 1999 (currently called Europa League), na or that Italian Parma impeded by 3-0 to Olympique de Marseille French, at the end of the League of Campions da UEFA of 2008, cando, baixo torrential unha torrential before 74,000 spectators, or Manchester United tamén derrotou ao English Chelsea nunha agonizing series of penalties.</string>
+    <string name="str_stadium_uno_desingtext">As Luzhnikis reconstruction works for Russia 2018 began in 2013. Two basic aspects of the project were to conserve the historical façade of the stadium, which became the highest identities of Moscow. It is not inside, or stadium completely renewed: the athletics track was eliminated, the stands were thrown so that they were more pret of the field of xogo and received a rectangle form, axustouse or seu pendente e ampliause or its height with the sum of dous novas rows of asentos. A capacity of the stadium increased from 78,000 to 80,000 locations.</string>
+
+    <string name="str_stadium_dos_historytext">This is a new stadium, with seating capacity for 35,000 seats, which was built for Russia 2018 on the island of Oktyabrsky, right in the center of Kaliningrad. The election of Kaliningrad as the venue of the competition has led the municipal authorities to urbanize the island, which for many centuries has remained virtually intact, in its natural state. After the 2018 World Cup, a residential complex will be built around the stadium, with parks, docks and jetties along the Pregola River.</string>
+    <string name="str_stadium_dos_desingtext">The new Kaliningrad stadium will be a multifunctional venue, where in addition to football matches, other sports competitions and concerts will be held.</string>
+
+    <string name="str_stadium_tres_historytext">The new Volgograd stadium for Russia 2018 was built on the site of the Central Stadium, at the foot of the monument to the fallen of Mamayev Kurgan. The place of the previous stadium is a pilgrimage center for football fans of the city, the most veterans of whom remember the triumph in European competition at the expense of Manchester United and the games of the national league against Spartak Moscow.</string>
+    <string name="str_stadium_tres_desingtext">The facade of the stadium has an inverted truncated cone shape, with an open lattice structure, which gives the whole building a monumental solidity. The brackets and brackets included in the design of the facade incorporate elements of the typical fireworks shows of the Victory Day. The special shape in which the roof of the stadium has been built, with cables reminiscent of the spokes of a bicycle wheel, gives the venue a feeling of lightness.</string>
+
+    <string name="str_stadium_cuatro_historytext">This stadium built in 1953 is home to one of the oldest football clubs in the country, FC Ural. Since its inauguration it has been renewed on numerous occasions. The last of these reforms was carried out for Russia 2018. On each occasion, however, its historic façade has remained unaltered, thus respecting its status as an architectural legacy. In the construction of the stands were used abundant architectural and decorative elements of the Soviet neoclassicism, along with decorative arts in the form of sculptures, vases and shields.</string>
+    <string name="str_stadium_cuatro_desingtext">The stadium retains its historic facade, but received a new roof and temporary stands in time for the 2018 Russian celebration.</string>
+
+    <string name="str_stadium_cinco_historytext">Located in the Olympic Park of the Imeretin Valley of Sochi, the stadium was built on the occasion of the Winter Olympic Games in February 2014, and hosted the opening and closing ceremonies of the event. It was rebuilt for the 2018 FIFA World Cup Russia. In 2017, it hosted four FIFA Confederations Cup matches, including one of the semifinals.</string>
+    <string name="str_stadium_cinco_desingtext">Originally, this stadium was named after Mount Fisht, a mountain in the Caucasus mountain range. In the local language, adigués, "fisht" means "white head". The silhouette of the building, designed by British architects, recalls the snow-covered mountain peak.</string>
+
+    <string name="str_stadium_seis_historytext">Situado en el Parque Olímpico del valle Imeretin de Sochi, el estadio se construyó con motivo de los Juegos Olímpicos de Invierno en febrero de 2014, y albergó las ceremonias de inauguración y de clausura del certamen. Fue reconstruido para la Copa Mundial de la FIFA Rusia 2018. En 2017, fue sede de cuatro partidos de la Copa FIFA Confederaciones, entre ellos una de las semifinales.</string>
+    <string name="str_stadium_seis_desingtext">Originalmente, este estadio llevaba el nombre del monte Fisht, una montaña de la cordillera del Cáucaso. En el idioma local, el adigués, "fisht" significa 'cabeza blanca'. La silueta del edificio, obra de arquitectos británicos, recuerda el pico montañoso cubierto de nieve.</string>
+
+    <string name="str_stadium_siete_historytext">The new Kazan stadium was built in 2013, on the occasion of the Games of the Summer Universiade, and hosted the opening and closing ceremonies of the event. The football field was installed after the celebration of the Games. The first football match in this stadium was played in August 2013, when Rubin de Kazan drew 1-1 with Lokomotiv Moscow. In 2017, it hosted four FIFA Confederations Cup matches, including one of the semifinals.</string>
+    <string name="str_stadium_siete_desingtext">The stadium, the work of the same architects who designed the Wembley Stadium and the Emirates Stadium in London, has an exceptional design that fits perfectly into the urban landscape of Kazan. Seen from above, the enclosure, which rises on the banks of the Kazanka River, resembles a water lily.</string>
+
+    <string name="str_stadium_ocho_historytext">The Nizhny Novgorod stadium for Russia 2018 is being built in one of the most picturesque places of the city, at the confluence of the Volga and Oka rivers, near the Alexander Nevsky cathedral. The area offers stunning views of the Nizhny Novgorod Kremlin, located on the other side of the Oka.</string>
+    <string name="str_stadium_ocho_desingtext">The design of the stadium is inspired by two natural characteristics of the Volga region: water and wind. At the same time, given its location in the vicinity of the most historic neighborhoods of the city, the building should present a sober and austere silhouette. Its basic structure, very light, consists of light triangular supports arranged in a circle, which support the undulating and semitransparent facade behind which the bowl of the stadium is hidden. A walkway that surrounds the building, connected with stairs inclined on a tangent, enhances the fluidity of its forms. At night, the lighting of the different facades will highlight the plasticity and lightness of the building.</string>
+
+    <string name="str_stadium_nueve_historytext">The new Samara stadium for Russia 2018 was built in the Radiotsentr district, and will be surrounded by a residential development and high quality infrastructure. The work began on July 21, 2014.</string>
+    <string name="str_stadium_nueve_desingtext">The theme of space travel dominates the concept that follows the design of the stadium, as a tribute to the traditions of the area, famous for its burgeoning aerospace industry. The stadium will be shaped like a glass dome. A basic structure, metallic, light, high technology and with supports to support the weight, will cover the stands at 60 meters from the ground level. At night, the lighting of the entire structure will emphasize the expressionist design of the stadium.</string>
+
+    <string name="str_stadium_dies_historytext">The new Rostov-on-Don stadium for Russia 2018 is located on the left bank of the Don River. Driven by its choice as headquarters, Rostov del Don increased its size with the development of the left bank of the river, where tourist facilities and restaurants have always attracted citizens and visitors alike.</string>
+    <string name="str_stadium_dies_desingtext">The original design of the stadium is harmoniously integrated into the picturesque landscape. The shape of the roof of the enclosure imitates the meanders of the Don River. The different heights of the stands allow the spectators to enjoy not only what happens on the pitch, but also the views of Rostov-on-Don. From the left bank of the Don, the city is especially beautiful.</string>
+
+    <string name="str_stadium_once_historytext">The Spartak of Moscow, the "people's team", is one of the most popular football clubs in Russia. In spite of this, since its foundation in 1922, it has never possessed its own stadium. The club has played its home games in the stadiums of Dynamo Moscow, in Luzhniki, in Lokomotiv, in Khimki Arena, outside Moscow and even in Yekaterinburg. In 2010, on the site of the former Moscow airfield, in the Tushino district, Spartak began to build its own stadium, with a capacity of 45,000 seats. The venue hosted its first game on September 5, 2014, between Spartak and the Red Star of Belgrade, tied with a 1-1 draw. In 2017, it hosted four FIFA Confederations Cup matches, including the duel for third place.</string>
+    <string name="str_stadium_once_desingtext">The appearance of the stadium is a source of pride for the city. Its façade is covered with a chain mail consisting of small diamond-shaped plates that represent the Spartak logo. The facade can change color, depending on the team that is playing in the stadium. In Spartak matches, the stadium is covered in red and white; when the national team plays in it, its outer covering adopts the colors of the Russian flag. In this stadium is the Moscow Spartak museum, its official fan club and the club shop. A new metro stop has been opened nearby.</string>
+
+    <string name="str_stadium_doce_historytext">TEste nuevo y supermoderno estadio de San Petersburgo se construyó en la isla de Krestovsky, en el solar del antiguo estadio de Kirov, que fue en sus tiempos uno de los mayores estadios del país, con capacidad para 110.000 espectadores. El encargado de los planos del nuevo recinto deportivo fue el famoso arquitecto japonés Kisho Kurosawa, ganador de la licitación para su edificación. En 2017, fue sede de cuatro partidos de la Copa FIFA Confederaciones, entre ellos el duelo inaugural y la final.</string>
+    <string name="str_stadium_doce_desingtext">The architects project took the form of a spaceship that has landed on the shores of the Gulf of Finland. The seven-story building is 79 meters high. Technologically, the stadium is one of the most modern in the world. Thanks to its retractable cover and its sliding field, the enclosure can host all kinds of events and events throughout the year: even in winter, the temperature inside will remain constant at 15 degrees.</string>
 </resources>
