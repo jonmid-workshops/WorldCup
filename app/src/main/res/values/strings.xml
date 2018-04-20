@@ -61,4 +61,12 @@
     <string name="str_account_password">Contraseña</string>
     <string name="str_account_repassword">Confirmar contraseña</string>
     <string name="str_btn_account">Crear cuenta</string>
+
+
+    <string name="str_stadium_history">Historia</string>
+    <string name="str_stadium_desing">Diseño</string>
+
+
+    <string name="str_stadium_uno_historytext">Las obras del estadio de Saransk para Rusia 2018 empezaron en 2010, en el 1000º aniversario de la unificación de los pueblos mordovos con los demás grupos étnicos de Rusia. El recinto se levanta en el centro de la ciudad, a orillas del río Insar.</string>
+    <string name="str_stadium_uno_desingtext">El diseño del estadio tiene forma oval. Su fuerte colorido, que combina el naranja, el rojo y el blanco, rinde tributo a la distintiva paleta cromática de la artesanía de Mordovia.</string>
 </resources>
