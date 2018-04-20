@@ -3,4 +3,18 @@
     <string name="app_name">WorldCup</string>
     <string name="str_menubn_results">Result</string>
     <string name="str_title_video">Recuerde los mejores goles del mundial</string>
+
+
+    <string name="str_stadium_uno">Stadium Kaliningrado</string>
+    <string name="str_stadium_dos">Stadium Volgogrado Arena</string>
+    <string name="str_stadium_tres">Stadium Ekaterimburgo Arena</string>
+    <string name="str_stadium_cuatro">Stadium Fisht</string>
+    <string name="str_stadium_cinco">Stadium Kazán Arena</string>
+    <string name="str_stadium_seis">Stadium Nizhni Nóvgorod</string>
+    <string name="str_stadium_siete">Stadium Luzhniki</string>
+    <string name="str_stadium_ocho">Stadium Samara Arena</string>
+    <string name="str_stadium_nueve">Stadium Rostov Arena</string>
+    <string name="str_stadium_diez">Stadium Spartak</string>
+    <string name="str_stadium_once">Stadium San Petersburgo</string>
+    <string name="str_stadium_doce">Stadium Mordovia Arena</string>
 </resources>

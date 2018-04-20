@@ -35,13 +35,13 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="¡A 59 DÍAS DE RUSIA 2018!"
+                    android:text="@string/str_news_uno"
                     android:textColor="@android:color/white"
                     android:textStyle="bold"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Reserve su asiento en la Copa Mundial de la FIFA 2018™ y disfrute del fútbol a otro nivel gracias a nuestro Programa Oficial de Hospitalidad."
+                    android:text="@string/str_news_uno_text"
                     android:textColor="@android:color/white"
                     android:textSize="10sp"/>
             </LinearLayout>

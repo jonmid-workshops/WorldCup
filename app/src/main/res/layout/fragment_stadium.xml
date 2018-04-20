@@ -16,6 +16,28 @@
             android:padding="16dp">
 
             <include layout="@layout/cardview_stadium_uno" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_dos" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_tres" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_cuatro" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_cinco" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_seis" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_siete" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_ocho" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_nueve" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_diez" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_once" />
+            <View android:layout_width="match_parent" android:layout_height="10dp"/>
+            <include layout="@layout/cardview_stadium_doce" />
 
         </LinearLayout>
     </ScrollView>

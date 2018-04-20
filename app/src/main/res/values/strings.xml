@@ -3,6 +3,25 @@
     <string name="str_menubn_results">Resultados</string>
     <string name="str_title_video">Recuerde los mejores goles del mundial</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="str_news_uno">¡A 55 DÍAS DE RUSIA 2018!</string>
+    <string name="str_news_uno_text">Reserve su asiento en la Copa Mundial de la FIFA 2018™ y disfrute del fútbol a otro nivel gracias a nuestro Programa Oficial de Hospitalidad.</string>
+    <string name="str_news_dos">MÉXICO: ASPIRÁ AL 5TO PARTIDO</string>
+    <string name="str_news_dos_text">Ya son seis ediciones consecutivas que la selección mexicana ha logrado superar la fase de grupos, pero ese es su techo.</string>
+    <string name="str_news_tres">LA GIRA DE LA COPA DEL MUNDO</string>
+    <string name="str_news_tres_text">La gira del trofeo de la copa del mundo hace escala en America Latina, convocando a millones de aficionados del futbol.</string>
+
+
+    <string name="str_stadium_uno">Estadio Kaliningrado</string>
+    <string name="str_stadium_dos">Estadio Volgogrado Arena</string>
+    <string name="str_stadium_tres">Estadio Ekaterimburgo Arena</string>
+    <string name="str_stadium_cuatro">Estadio Fisht</string>
+    <string name="str_stadium_cinco">Estadio Kazán Arena</string>
+    <string name="str_stadium_seis">Estadio De Nizhni Nóvgorod</string>
+    <string name="str_stadium_siete">Estadio Luzhniki</string>
+    <string name="str_stadium_ocho">Estadio Samara Arena</string>
+    <string name="str_stadium_nueve">Estadio Rostov Arena</string>
+    <string name="str_stadium_diez">Estadio Del Spartak</string>
+    <string name="str_stadium_once">Estadio De San Petersburgo</string>
+    <string name="str_stadium_doce">Estadio De Mordovia Arena</string>
 </resources>
