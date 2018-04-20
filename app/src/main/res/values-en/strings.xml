@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">WorldCup</string>
     <string name="str_menubn_results">Result</string>
+    <string name="str_title_video">Recuerde los mejores goles del mundial</string>
 </resources>
