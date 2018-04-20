@@ -9,22 +9,22 @@
         app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/id_menubn_group"
-        android:title="Groups"
+        android:title="@string/str_menubn_groups"
         android:icon="@drawable/group_96"
         app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/id_menubn_news"
-        android:title="News"
+        android:title="@string/str_menubn_news"
         android:icon="@drawable/news_96"
         app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/id_menubn_stadium"
-        android:title="Stadium"
+        android:title="@string/str_menubn_stadium"
         android:icon="@drawable/stadium_96"
         app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/id_menubn_profile"
-        android:title="Profile"
+        android:title="@string/str_menubn_profile"
         android:icon="@drawable/user_96"
         app:showAsAction="ifRoom"/>
 

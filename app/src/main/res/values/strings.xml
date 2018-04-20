@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WorldCup</string>
-    <string name="str_menubn_results">Resultados</string>
+    <string name="app_name">Copa Mundo</string>
+    <string name="str_toolbar_account">Crear cuenta</string>
+
+    <string name="str_menubn_results">Partidos</string>
+    <string name="str_menubn_groups">Grupos</string>
+    <string name="str_menubn_news">Noticias</string>
+    <string name="str_menubn_stadium">Estadios</string>
+    <string name="str_menubn_profile">Perfil</string>
+
+
     <string name="str_title_video">Recuerde los mejores goles del mundial</string>
 
 
@@ -40,4 +48,17 @@
     <string name="str_group_f">GRUPO F</string>
     <string name="str_group_g">GRUPO G</string>
     <string name="str_group_h">GRUPO H</string>
+
+
+    <string name="str_login_name">Nombre de usuario</string>
+    <string name="str_login_password">Contraseña</string>
+    <string name="str_btn_login">Ingresar</string>
+
+
+    <string name="str_account_email">Correo electronico</string>
+    <string name="str_account_name">Nombre</string>
+    <string name="str_account_user">Usuario</string>
+    <string name="str_account_password">Contraseña</string>
+    <string name="str_account_repassword">Confirmar contraseña</string>
+    <string name="str_btn_account">Crear cuenta</string>
 </resources>
